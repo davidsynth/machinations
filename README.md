@@ -1,4 +1,4 @@
-# machinations
+# Machinations
 
 A repo with the PureData code for the Machinations release (SKAP005). To run the code, you can:
 
